@@ -1,4 +1,4 @@
-# Power-Bi-Dashboard-2
+# Power-Bi-Dashboard
 Objective- Owner of Madhav Store want me to help create a Dashboard to track and analyze their online sales across India.
 
 Understanding Requirements- What is the profit per month?
